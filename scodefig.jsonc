@@ -1,0 +1,18 @@
+{
+  "$schema": "node_modules/@jadujoel/scode/schema.json",
+  "yes": true,
+  "bitrate": 96,
+  "indir": "packages",
+  "outdir": "encoded",
+  "loglevel": "debug",
+  "packages": {
+    "joellof": {
+      "author": "Joel Löf",
+      "description": "https//joellof.com",
+      "sourcedir": "",
+      "languages": {
+        "_": "_"
+      }
+    }
+  }
+}

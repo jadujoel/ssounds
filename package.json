@@ -1,0 +1,14 @@
+{
+  "name": "ssounds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rm -rf .cache encoded && scode --loglevel=debug"
+  },
+  "author": "joel.lof@icloud.com",
+  "license": "MIT",
+  "devDependencies": {
+    "@jadujoel/scode": "1.4.6"
+  }
+}
