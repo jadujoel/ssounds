@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "rm -rf .cache encoded && scode --loglevel=debug"
+    "build": "rm -rf .cache encoded && scode --loglevel=debug --include-mp4=true"
   },
   "author": "joel.lof@icloud.com",
   "license": "MIT",
